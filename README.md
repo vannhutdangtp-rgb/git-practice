@@ -1,7 +1,9 @@
 Đây là README được chỉnh sửa từ nhánh conflict-demo.
-sửa hoài lun bạn ơi + bạn sợ á bạn
 
-thật bạn à + sợ quá trời lun bạn ơi
+sửa hoài lun bạn ơi + bạn sợ á bạn  
+that bạn á + sợ quá trời lun bạn ơi
+Sở thích: Đọc sách và chơi thể thao  
+Kỹ năng: Git cơ bản
 
 
 
